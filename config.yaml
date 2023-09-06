@@ -1,9 +1,9 @@
-baseurl: https://example.com
+baseurl: https://securisk.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
-copyright: Example Person
+title: Securisk
+copyright: Hamouni Abderrezak
 
 languages:
     en:
