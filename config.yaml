@@ -4,6 +4,7 @@ theme: hugo-theme-stack
 paginate: 5
 title: Hamouni Abderrezak
 copyright: Hamouni Abderrezak
+favicon: "/favicon.ico"
 
 languages:
     en:

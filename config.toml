@@ -1,4 +1,5 @@
 baseURL = 'http://securist.pages.dev'
 languageCode = 'en-us'
-title = 'Hamouni Abderrezak'
+title = 'Securisk'
 theme = "stack"
+favicon = "/favicon.ico"
