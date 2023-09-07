@@ -2,4 +2,4 @@ baseURL = 'http://securist.pages.dev'
 languageCode = 'en-us'
 title = 'Securisk'
 theme = "stack"
-favicon = "/favicon.ico"
+favicon = "favicon.ico"
